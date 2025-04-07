@@ -32,8 +32,7 @@
 📈 **GitHub Stats**
 ![Rajkumar's GitHub stats]
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Rajkumar-Adepu.Rajkumar-Adepu)
-
+![Rajkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkumar-Adepu&show_icons=true&theme=default)
 
 ---
 
