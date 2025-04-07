@@ -31,6 +31,7 @@
 
 📈 **GitHub Stats**
 ![Rajkumar's GitHub stats]
+![Visitor Count](https://komarev.com/ghpvc/?username=Rajkumar-Adepu&label=Profile%20Views&color=0e75b6&style=flat)
 
 ![Rajkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajkumar-Adepu&show_icons=true&theme=default)
 
